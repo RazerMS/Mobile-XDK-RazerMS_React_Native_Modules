@@ -8,6 +8,17 @@ RazerMS mobile XDK implementation using native modules
 - iOS https://reactnative.dev/docs/native-modules-ios
 - Android https://reactnative.dev/docs/native-modules-android
 
+
+## Resources
+
+- GitHub:     https://github.com/RazerMS
+- Website:    https://merchant.razer.com/
+- Twitter:    https://twitter.com/Razer_MS
+- YouTube:    https://www.youtube.com/c/RazerMerchantServices
+- Facebook:   https://www.facebook.com/RazerMerchantServices/
+- Instagram:  https://www.instagram.com/RazerMerchantServices/
+
+
 Issues
 ------------
 
