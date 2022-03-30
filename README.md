@@ -2,6 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
 
+## Introduction
+
 RazerMS mobile XDK implementation using native modules
 
 ## Guidelines 
@@ -18,6 +20,9 @@ RazerMS mobile XDK implementation using native modules
 - Facebook:   https://www.facebook.com/RazerMerchantServices/
 - Instagram:  https://www.instagram.com/RazerMerchantServices/
 
+## Contribution
+
+You can contribute to this plugin by sending the pull request to this repository
 
 Issues
 ------------
@@ -25,7 +30,7 @@ Issues
 Submit issue to this repository or email to our support-sa@razer.com
 
 
-Support
+Contact Support
 -------
 
 Merchant Technical Support / Customer Care : support-sa@razer.com <br>
